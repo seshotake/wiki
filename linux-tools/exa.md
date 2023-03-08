@@ -1,4 +1,6 @@
-# exa - an alternative to `ls` command
+# exa
+
+An alternative to `ls` command
 
 ## Features:
 

@@ -1,4 +1,6 @@
-# bat - an alternative to `cat` command
+# bat
+
+An alternative to `cat` command
 
 ## Fatures:
 
